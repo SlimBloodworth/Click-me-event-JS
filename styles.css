@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.btn {
+    position: relative;
+    background-color: #2B2D2F;
+    color: #71dfbe;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    border-radius: .125em;
+    width: 125px;
+    height: 40px;
+    padding: 0;
+    cursor: pointer;
+}
